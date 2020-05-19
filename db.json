@@ -1,0 +1,100 @@
+{
+  "bags": [
+    {
+      "id": 1,
+      "name": "RED 30 MONTAIGNE SMOOTH CALFSKIN FLAP BAG",
+      "price": 3000,
+      "priceSale": 4000,
+      "quantity": 1,
+      "image": "https://wwws.dior.com/couture/ecommerce/media/catalog/product/cache/1/zoom_image_1/3000x2000/17f82f742ffe127f42dca9de82fb58b1/e/x/1574077503_M9203UMOS_M02E_E01_ZH.jpg"
+    },
+    {
+      "id": 2,
+      "name": "LADY DIOR ULTRA-MATTE BAG",
+      "price": 3200,
+      "priceSale": 4700,
+      "quantity": 1,
+      "image": "https://wwws.dior.com/couture/ecommerce/media/catalog/product/cache/1/zoom_image_1/3000x2000/17f82f742ffe127f42dca9de82fb58b1/7/b/1582132706_M0565SLOI_M989_E01_ZH.jpg"
+    },
+    {
+      "id": 3,
+      "name": "QUEEN MINT 30 MONTAIGNE SMOOTH CALFSKIN FLAP BAG",
+      "price": 1500,
+      "priceSale": 2700,
+      "quantity": 1,
+      "image": "https://wwws.dior.com/couture/ecommerce/media/catalog/product/cache/1/zoom_image_1/3000x2000/17f82f742ffe127f42dca9de82fb58b1/G/N/1576753061_M9203UMOS_M59H_E01_ZH.jpg"
+    },
+    {
+      "id": 4,
+      "name": "MINI CHALK WHITE LADY DIOR",
+      "price": 2200,
+      "priceSale": 3000,
+      "quantity": 1,
+      "image": "https://wwws.dior.com/couture/ecommerce/media/catalog/product/cache/1/zoom_image_1/3000x2000/17f82f742ffe127f42dca9de82fb58b1/h/F/1571654701_M0505OPGO_M30U_E01_ZH.jpg"
+    },
+    {
+      "id": 5,
+      "name": "DIOR OBLIQUE SADDLE BELT BAG",
+      "price": 900,
+      "priceSale": 1150,
+      "quantity": 1,
+      "image": "https://wwws.dior.com/couture/ecommerce/media/catalog/product/cache/1/zoom_image_1/3000x2000/17f82f742ffe127f42dca9de82fb58b1/D/O/1582132703_S5619CTZQ_M928_E01_ZH.jpg"
+    },
+    {
+      "id": 6,
+      "name": "ROSE DES VENTS LADY DIOR CALFSKIN",
+      "price": 1700,
+      "priceSale": 2500,
+      "quantity": 1,
+      "image": "https://wwws.dior.com/couture/ecommerce/media/catalog/product/cache/1/zoom_image_1/3000x2000/17f82f742ffe127f42dca9de82fb58b1/U/V/1582132689_S0020OVRB_M49P_E01_ZH.jpg"
+    },
+    {
+      "id": 7,
+      "name": "DIOR LADY ART BAG",
+      "price": 12000,
+      "priceSale": 12500,
+      "quantity": 1,
+      "image": "https://wwws.dior.com/couture/ecommerce/media/catalog/product/cache/1/zoom_image_1/3000x2000/17f82f742ffe127f42dca9de82fb58b1/4/a/1576788302_M0565CJHLX_M884_E01_ZH.jpg"
+    },
+    {
+      "id": 8,
+      "name": "BLACK AND WHITE LADY DIOR ",
+      "price": 4800,
+      "priceSale": 5800,
+      "quantity": 1,
+      "image": "https://wwws.dior.com/couture/ecommerce/media/catalog/product/cache/1/cover_image_1/870x580/17f82f742ffe127f42dca9de82fb58b1/z/K/1576753062_M0565SRBF_M911_E01_ZHC.jpg"
+    },
+    {
+      "id": 9,
+      "name": "MINI ORANGE LADY DIOR ",
+      "price": 4200,
+      "priceSale": 5300,
+      "quantity": 1,
+      "image": "https://wwws.dior.com/couture/ecommerce/media/catalog/product/cache/1/cover_image_1/870x580/17f82f742ffe127f42dca9de82fb58b1/z/K/1576753062_M0565SRBF_M911_E01_ZHC.jpg"
+    },
+    {
+      "id": 10,
+      "name": "MEDIUM BOIS DE ROSE LADY D-LITE EMBROIDERED",
+      "price": 3899,
+      "priceSale": 4450,
+      "quantity": 1,
+      "image": "https://wwws.dior.com/couture/ecommerce/media/catalog/product/cache/1/cover_image_1/870x580/17f82f742ffe127f42dca9de82fb58b1/l/9/1580928316_M0565OREY_M957_E01_ZHC.jpg"
+    },
+    {
+      "id": 11,
+      "name": "DIOR LADY ART BAG, EDUARDO TERRAZAS",
+      "price": 4900,
+      "priceSale": 5000,
+      "quantity": 1,
+      "image": "https://wwws.dior.com/couture/ecommerce/media/catalog/product/cache/1/cover_image_1/870x580/17f82f742ffe127f42dca9de82fb58b1/L/h/1576788303_M0565PJHBX_M933_E01_ZHC.jpg"
+    },
+    {
+      "id": 12,
+      "name": "DIOR LADY ART BAG, MARGUERITE HUMEAU",
+      "price": 6800,
+      "priceSale": 6900,
+      "quantity": 1,
+      "image": "https://wwws.dior.com/couture/ecommerce/media/catalog/product/cache/1/cover_image_1/870x580/17f82f742ffe127f42dca9de82fb58b1/p/x/1576776682_M0593PJHFX_M030_E01_ZHC.jpg"
+    }
+  ]
+}
